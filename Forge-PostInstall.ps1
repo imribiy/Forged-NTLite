@@ -294,7 +294,7 @@ $ServicesToDisable = @(
     "SensorDataService", "SensorService", "SensrSvc", "SharedRealitySvc", "WalletService", "WbioSrvc", "WdiServiceHost", "WdiSystemHost",
     "wisvc", "workfolderssvc", "WwanSvc", "XblAuthManager", "XblGameSave", "XboxGipSvc", "XboxNetApiSvc",
     "RemoteRegistry", "TermService", "UmRdpService", "SecurityHealthService", "wscsvc", "Sense",
-    "SysMain", "SEMgrSvc", "spectrum", "DoSvc", "DPS"
+    "SysMain", "SEMgrSvc", "spectrum", "DoSvc", "DPS", "Themes", "PushToInstall", "FontCache", "CDPUserSvc"
 )
 $ServicesToSetManual = @(
     "bthserv", "BluetoothUserService", "BthAvctpSvc", "hidserv", "TabletInputService"
